@@ -20,7 +20,7 @@ Web sa skladá zo spoločného jadra v2 (`kluby-siet/engine`: `python assemble.p
 - Zápasy, výsledky, strelci, karty, počty divákov, zostavy dospelých, tabuľky a súpisky 4 tímov (áčko, U19, U13, U11) zo Sportnetu (Futbalnet), verejné API súťaží (`scripts/sportnet.mjs` → `data/sportnet.json`). Tím bez súťaže a hráčov sa nezobrazuje. Vek hráčov sa neukladá, zostavy len pri dospelých.
 - Ročníky áčka 2013/14 – 2025/26 z konečných tabuliek na Sportnete, titul vo VII. lige ObFZ Topoľčany 2023/24 (`data/klub.json`).
 - Predseda klubu a obec (prvá zmienka 1235, kostol, kaštieľ, rodáci) podľa webu obce Krušovce. Históriu a rok založenia klubu sme vo verejných zdrojoch nenašli, doplní klub.
-- E-mail zo Sportnetu. Klub má stránku na Facebooku (odkaz zo Sportnetu); jej obsah ani fotky sme nepoužili.
+- E-mail zo Sportnetu. Odkaz na stránku klubu na Facebooku je zo Sportnetu; jej obsah ani fotky sme nepoužili.
 - Erb klubu a erby súperov zo Sportnetu (`scripts/logos.py`). Patria príslušným klubom.
 - Písmo Epilogue a Piazzolla, licencia SIL Open Font License 1.1 (`scripts/fonts.py`, rovné číslice sú zapečené do písma).
 
