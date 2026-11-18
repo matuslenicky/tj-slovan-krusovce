@@ -488,7 +488,7 @@ add('404/', {
 });
 
 const SKIN = {
-  nav: 'bar', theme: '#1670bd', brand: 'TJ Slovan Krušovce', brandSub: 'futbal pri Topoľčanoch',
+  nav: 'bar', theme: '#00679c', brand: 'TJ Slovan Krušovce', brandSub: 'futbal pri Topoľčanoch',
   fonts: ['epilogue-800.woff', 'piazzolla-400.woff', 'piazzolla-600.woff'],
   sources: 'Obec podľa webu obce Krušovce.',
   adminHero: 'Doma a vonku',
@@ -506,6 +506,8 @@ function rec(home) {
   for (const m of l) { r[m.res] += 1; r.gf += m.gf; r.ga += m.ga; }
   return r;
 }
+// v stĺpci Doma/Vonku je „· doma“ / „· vonku“ pri každom riadku zbytočné, nadpis stĺpca to už hovorí
+const sideList = (l, R) => fxList(l, R, { showTeam: false }).replace(/ · (doma|vonku)<\/span><\/span>/g, '</span></span>');
 function side(home, R) {
   const r = rec(home);
   const up = upcoming.filter((m) => m.team === A.slug && m.home === home && m !== nextA).slice(0, 3);
@@ -517,8 +519,8 @@ function side(home, R) {
   ${r.n ? `<dl class="ks-rec">
     <div><dt>výhry</dt><dd>${r.w}</dd></div><div><dt>remízy</dt><dd>${r.d}</dd></div><div><dt>prehry</dt><dd>${r.l}</dd></div><div class="ks-rec-s"><dt>skóre</dt><dd>${r.gf}:${r.ga}</dd></div>
   </dl>` : ''}
-  ${res.length ? `<h3 class="ks-h3">Výsledky</h3>${fxList(res, R, { showTeam: false })}` : ''}
-  ${up.length ? `<h3 class="ks-h3">Program</h3>${fxList(up, R, { showTeam: false })}` : ''}
+  ${res.length ? `<h3 class="ks-h3">Výsledky</h3>${sideList(res, R)}` : ''}
+  ${up.length ? `<h3 class="ks-h3">Program</h3>${sideList(up, R)}` : ''}
 </section>`;
 }
 
@@ -567,9 +569,9 @@ add('klub/', {
     <h2 class="h2 h2--gap">${esc(ST.nazov)}</h2><p>${club.adresa.map(esc).join(', ')}.</p>
     <p class="btns"><a class="btn btn--line" href="https://www.google.com/maps/dir/?api=1&amp;destination=${ST.geo.join(',')}" rel="noopener">Navigovať na ihrisko</a></p></div>
 </div></section>
-<section class="sec sec--tint"><div class="wrap cols2">
-  <div><h2 class="h2">Krušovce</h2>${facts(club.obec.fakty)}</div>
-  <div><p class="note ks-note">Zdroje: Sportnet (ročníky, zápasy, tabuľky), web obce Krušovce (klub, História obce, Kultúrne pamiatky).</p></div>
+<section class="sec sec--tint"><div class="wrap ks-obec">
+  <h2 class="h2">Krušovce</h2>${facts(club.obec.fakty)}
+  <p class="note">Zdroje: Sportnet (ročníky, zápasy, tabuľky), web obce Krušovce (klub, História obce, Kultúrne pamiatky).</p>
 </div></section>`,
 });
 

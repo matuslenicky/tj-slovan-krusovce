@@ -6,7 +6,7 @@ Ukážka: https://matuslenicky.github.io/tj-slovan-krusovce/ · administrácia (
 
 ## Vzhľad
 
-**„Doma a vonku“ (dizajn v2, 18. 11. 2026).** Teplá biela, modrá z erbu len pre stĺpec Doma a akcenty. Písmo Epilogue (titulky, čísla) a Piazzolla (text).
+**„Doma a vonku“ (dizajn v2, 18. 11. 2026).** Teplá biela, nebeská modrá z erbu len pre stĺpec Doma a akcenty. Písmo Epilogue (titulky, čísla) a Piazzolla (text).
 
 - úvod: meno klubu a najbližší zápas, pod tým sezóna áčka v dvoch stĺpcoch, doma a vonku; každý stĺpec má bilanciu (výhry, remízy, prehry, skóre), výsledky a program,
 - pod tým dorast a žiaci a tabuľka VI. ligy Severovýchod,
