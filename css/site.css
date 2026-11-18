@@ -229,7 +229,7 @@ a:hover .teams-s { text-decoration: underline; }
 /* TJ Slovan Krušovce – „Doma a vonku“. Teplá biela, modrá z erbu len pre stĺpec Doma a akcenty. */
 :root {
   --bg: #fbfaf7; --paper: #fff; --ink: #121a22; --muted: #57606a; --line: #e4e2dc;
-  --blue: #1670bd; --blue-d: #105795; --blue-l: #e7f1fa; --tint: #f3f1ec; --focus: #1670bd; --link: #105795;
+  --blue: #00679c; --blue-d: #00557f; --blue-l: #e3f3fb; --sky: #0090d8; --tint: #f3f1ec; --focus: #00679c; --link: #00557f;
   --disp: 'Epilogue', system-ui, sans-serif;
   --text: 'Piazzolla', Georgia, 'Times New Roman', serif;
   --text-size: 1.0938rem; --lh: 1.6;
@@ -275,8 +275,8 @@ a:hover .teams-s { text-decoration: underline; }
 /* doma a vonku */
 .ks-split { display: grid; gap: 20px; }
 .ks-split > * { min-width: 0; }
-@media (min-width: 900px) { .ks-split { grid-template-columns: 1fr 1fr; gap: 28px; } }
-.ks-side { padding: 22px 20px 18px; border: 1px solid var(--line); border-radius: 6px; background: var(--paper); }
+@media (min-width: 720px) { .ks-split { grid-template-columns: 1fr 1fr; gap: 28px; } } /* doma a vonku vedľa seba už na tablete */
+.ks-side { padding: 22px 20px 18px; border: 1px solid var(--line); border-radius: 6px; background: var(--paper); container-type: inline-size; }
 .ks-side--doma { background: var(--blue-l); border-color: transparent; }
 @media (min-width: 560px) { .ks-side { padding: 28px 28px 22px; } }
 .ks-h2 { font-size: clamp(2rem, 5vw, 2.8rem); line-height: 1; }
@@ -284,6 +284,7 @@ a:hover .teams-s { text-decoration: underline; }
 .ks-h2--s { font-size: clamp(1.5rem, 3vw, 1.9rem); margin-bottom: 8px; }
 .ks-sub { margin-top: 4px; color: var(--muted); font-style: italic; }
 .ks-rec { display: grid; grid-template-columns: repeat(3, auto) 1fr; gap: 6px 22px; margin: 18px 0 6px; align-items: end; }
+@container (max-width: 284.98px) { .ks-rec { column-gap: 12px; } } /* úzky stĺpec (telefón 320 px, tablet 720 px): inak skóre pretečie o 15–19 px */
 .ks-rec dt { order: 2; font: 800 .75rem/1.3 var(--disp); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
 .ks-rec div { display: flex; flex-direction: column; }
 .ks-rec dd { font: 800 clamp(2.4rem, 7vw, 3.4rem)/1 var(--disp); letter-spacing: -.04em; font-variant-numeric: tabular-nums; }
@@ -295,7 +296,7 @@ a:hover .teams-s { text-decoration: underline; }
 .ks-low { display: grid; gap: 40px; }
 .ks-low > * { min-width: 0; }
 @media (min-width: 1000px) { .ks-low { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 48px; align-items: start; } }
-.ks-note { margin-top: 0; }
+@media (min-width: 900px) { .ks-obec .kv { grid-template-columns: 1fr 1fr; column-gap: 48px; } }
 
 /* zápasy a tabuľka */
 .fx { border-bottom: 1px solid var(--line); }
