@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TJ Slovan Krušovce//Zapasy//SK
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TJ Slovan Krušovce – Starší dorast U19
+X-WR-TIMEZONE:Europe/Bratislava
+BEGIN:VTIMEZONE
+TZID:Europe/Bratislava
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:zapas-6a4e4aabd14e91f303b8c6fc@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20260823T133000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – OFK Práznovce 5:2
+DESCRIPTION:IV. liga starších dorastencov U19\, 3. kolo\nDomáci zápas
+LOCATION:Krušovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4abbd14e91f303b8ebf5@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20260828T153000
+DURATION:PT2H
+SUMMARY:U19: OFK Prašice – TJ Slovan Krušovce U19 3:2
+DESCRIPTION:IV. liga starších dorastencov U19\, 4. kolo\nZápas vonku
+LOCATION:OFK Prašice
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa9d14e91f303b8c318@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20260902T170000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – TJ-ŠK Radošina 4:1
+DESCRIPTION:IV. liga starších dorastencov U19\, 1. kolo\nDomáci zápas
+LOCATION:Krušovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa4d14e91f303b8b143@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20260909T170000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Bojná – TJ Slovan Krušovce U19 2:3
+DESCRIPTION:IV. liga starších dorastencov U19\, 2. kolo\nZápas vonku
+LOCATION:TJ Slovan Bojná
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8cb1e@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20260913T123000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – ŠC Chynorany 1:4
+DESCRIPTION:IV. liga starších dorastencov U19\, 6. kolo\nDomáci zápas
+LOCATION:Krušovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa6d14e91f303b8b7a1@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20260919T113000
+DURATION:PT2H
+SUMMARY:U19: TJ Tatran Kamenec pod Vtáčnikom – TJ Slovan Krušovce U19
+  1:2
+DESCRIPTION:IV. liga starších dorastencov U19\, 7. kolo\nZápas vonku
+LOCATION:Futbalový štadión TATRAN Kamenec pod Vtáčnikom
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8c945@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20260924T163000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – OTJ Horné Obdokovce 0:10
+DESCRIPTION:IV. liga starších dorastencov U19\, 5. kolo\nDomáci zápas
+LOCATION:Krušovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa6d14e91f303b8b839@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20261003T110000
+DURATION:PT2H
+SUMMARY:U19: TJ Nový Život Veľké Uherce – TJ Slovan Krušovce U19 5:
+ 0
+DESCRIPTION:IV. liga starších dorastencov U19\, 9. kolo\nZápas vonku
+LOCATION:Veľké Uherce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aadd14e91f303b8ce4a@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20261011T110000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – TJ Družstevník Jacovce 1:2
+DESCRIPTION:IV. liga starších dorastencov U19\, 10. kolo\nDomáci zápas
+LOCATION:Krušovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aadd14e91f303b8ccc8@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20261016T153000
+DURATION:PT2H
+SUMMARY:U19: ŠK Vegum Dolné Vestenice – TJ Slovan Krušovce U19 8:2
+DESCRIPTION:IV. liga starších dorastencov U19\, 8. kolo\nZápas vonku
+LOCATION:ŠK VEGUM Dolné Vestenice
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa7d14e91f303b8b9b8@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20261018T103000
+DURATION:PT2H
+SUMMARY:U19: OFK Tovarníky – TJ Slovan Krušovce U19 2:2
+DESCRIPTION:IV. liga starších dorastencov U19\, 11. kolo\nZápas vonku
+LOCATION:OFK Tovarníky
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aaed14e91f303b8d017@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20261024T103000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – MFK Baník Handlová 4:0
+DESCRIPTION:IV. liga starších dorastencov U19\, 12. kolo\nDomáci zápas
+LOCATION:Krušovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa7d14e91f303b8bb7e@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20261029T140000
+DURATION:PT2H
+SUMMARY:U19: FK Junior Kanianka – TJ Slovan Krušovce U19 3:0
+DESCRIPTION:IV. liga starších dorastencov U19\, 13. kolo\nZápas vonku
+LOCATION:FK Junior Kanianka
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aaed14e91f303b8d0c5@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20261108T100000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – TJ Družstevník Nedožery-Brezan
+ y 0:7
+DESCRIPTION:IV. liga starších dorastencov U19\, 14. kolo\nDomáci zápas
+LOCATION:Krušovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa8d14e91f303b8bd9f@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20261114T100000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce – TJ Slovan Krušovce U19 4:0
+DESCRIPTION:IV. liga starších dorastencov U19\, 15. kolo\nZápas vonku
+LOCATION:OFK Kovarce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aafd14e91f303b8d177@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270307T110000
+DURATION:PT2H
+SUMMARY:U19: TJ-ŠK Radošina – TJ Slovan Krušovce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 16. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa8d14e91f303b8bec6@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270314T110000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – TJ Slovan Bojná
+DESCRIPTION:IV. liga starších dorastencov U19\, 17. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aafd14e91f303b8d392@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270320T113000
+DURATION:PT2H
+SUMMARY:U19: OFK Práznovce – TJ Slovan Krušovce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 18. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4abdd14e91f303b8f18c@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270328T113000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – OFK Prašice
+DESCRIPTION:IV. liga starších dorastencov U19\, 19. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aafd14e91f303b8d480@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270404T123000
+DURATION:PT2H
+SUMMARY:U19: OTJ Horné Obdokovce – TJ Slovan Krušovce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 20. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4ab0d14e91f303b8d555@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270411T123000
+DURATION:PT2H
+SUMMARY:U19: ŠC Chynorany – TJ Slovan Krušovce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 21. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8c832@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270418T130000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – TJ Tatran Kamenec pod Vtáčnikom
+DESCRIPTION:IV. liga starších dorastencov U19\, 22. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4ab0d14e91f303b8d601@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270425T130000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – ŠK Vegum Dolné Vestenice
+DESCRIPTION:IV. liga starších dorastencov U19\, 23. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8c910@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270502T133000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – TJ Nový Život Veľké Uherce
+DESCRIPTION:IV. liga starších dorastencov U19\, 24. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4ab0d14e91f303b8d6c8@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270509T133000
+DURATION:PT2H
+SUMMARY:U19: TJ Družstevník Jacovce – TJ Slovan Krušovce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 25. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8cb46@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270516T133000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – OFK Tovarníky
+DESCRIPTION:IV. liga starších dorastencov U19\, 26. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4ab1d14e91f303b8d81b@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270522T123000
+DURATION:PT2H
+SUMMARY:U19: MFK Baník Handlová – TJ Slovan Krušovce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 27. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aadd14e91f303b8cd61@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270530T133000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – FK Junior Kanianka
+DESCRIPTION:IV. liga starších dorastencov U19\, 28. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4ab1d14e91f303b8d8ce@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270605T133000
+DURATION:PT2H
+SUMMARY:U19: TJ Družstevník Nedožery-Brezany – TJ Slovan Krušovce U1
+ 9
+DESCRIPTION:IV. liga starších dorastencov U19\, 29. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aaed14e91f303b8cf42@tj-slovan-krusovce.sportnet
+DTSTAMP:20261118T064410Z
+DTSTART;TZID=Europe/Bratislava:20270613T133000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce U19 – OFK Kovarce
+DESCRIPTION:IV. liga starších dorastencov U19\, 30. kolo\nDomáci zápas
+END:VEVENT
+END:VCALENDAR
