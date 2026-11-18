@@ -1,0 +1,80 @@
+{
+  "_zdroj": "Ručne zapísané len zo zverejnených zdrojov (uvedené pri každej časti). Nič nedopĺňať odhadom – chýbajúce údaje dodá klub.",
+  "nazov": "TJ Slovan Krušovce",
+  "kratky": "Krušovce",
+  "pravnyNazov": "Telovýchovná jednota Slovan Krušovce",
+  "_pravnyNazov": "Sportnet a zmluva o dotácii obce Krušovce 2025 (občianske združenie)",
+  "mesto": "Krušovce",
+  "zalozenie": null,
+  "_zalozenie": "rok založenia sme vo verejných zdrojoch nenašli (web obce, Sportnet, vyhľadávanie 18. 11. 2026) – doplní klub",
+  "farby": "modrá a biela",
+  "_farby": "erb klubu (Sportnet)",
+  "erbAlt": "Erb TJ Slovan Krušovce: modrý päťuholník s futbalovou loptou a nápisom Futbalový klub TJ Slovan Krušovce",
+  "adresa": ["956 31 Krušovce"],
+  "_adresa": "Sportnet (ihrisko Krušovce, PSČ 956 31)",
+  "kontakt": { "email": "caniga.lubomir@gmail.com" },
+  "_kontakt": "Sportnet (kontakt klubu)",
+  "predseda": "Dezider Kmotorka",
+  "_predseda": "web obce (TJ Slovan Krušovce) a zmluva o dotácii obce 2025",
+  "sportnetUrl": "https://sportnet.sme.sk/futbalnet/k/tj-slovan-krusovce/",
+  "obecWeb": "https://www.krusovce.sk/",
+  "obecKlub": "https://www.krusovce.sk/10200/tj-slovan-krusovce",
+  "stadion": {
+    "_zdroj": "Sportnet (ihrisko Krušovce, poloha)",
+    "nazov": "Ihrisko v Krušovciach",
+    "geo": [48.587003, 18.2059171],
+    "fakty": []
+  },
+  "rocniky": {
+    "_zdroj": "Sportnet – konečné tabuľky áčka (dospelí), stiahnuté 18. 11. 2026",
+    "zoznam": [
+      { "rok": "2013/14", "liga": "Majstrovstvá okresu", "poz": 2, "z": 16, "skore": "72:37", "body": 59 },
+      { "rok": "2014/15", "liga": "V. liga Stred", "poz": 7, "z": 16, "skore": "57:57", "body": 47 },
+      { "rok": "2015/16", "liga": "V. liga Stred", "poz": 14, "z": 16, "skore": "36:89", "body": 24 },
+      { "rok": "2016/17", "liga": "V. liga Stred", "poz": 11, "z": 16, "skore": "32:52", "body": 29 },
+      { "rok": "2017/18", "liga": "V. liga Stred", "poz": 7, "z": 14, "skore": "39:38", "body": 38 },
+      { "rok": "2018/19", "liga": "V. liga Stred", "poz": 8, "z": 16, "skore": "46:41", "body": 47 },
+      { "rok": "2019/20", "liga": "V. liga Stred", "poz": 13, "z": 16, "skore": "17:40", "body": 16, "pozn": "16 zápasov" },
+      { "rok": "2020/21", "liga": "V. liga Stred", "poz": 4, "z": 16, "skore": "31:18", "body": 28, "pozn": "15 zápasov, jediná prehra" },
+      { "rok": "2021/22", "liga": "V. liga Stred", "poz": 7, "z": 16, "skore": "47:33", "body": 42 },
+      { "rok": "2022/23", "liga": "VI. liga Stred", "poz": 9, "z": 16, "skore": "61:61", "body": 39 },
+      { "rok": "2023/24", "liga": "VII. liga ObFZ Topoľčany", "poz": 1, "z": 14, "skore": "74:22", "body": 64, "titul": true, "pozn": "20 výhier, 4 remízy, 2 prehry" },
+      { "rok": "2024/25", "liga": "VII. liga ObFZ Topoľčany", "poz": 5, "z": 14, "skore": "86:41", "body": 49 },
+      { "rok": "2025/26", "liga": "VI. liga Severovýchod", "poz": 5, "z": 16, "skore": "49:55", "body": 45 }
+    ]
+  },
+  "uspechy": [
+    { "rok": "2023/24", "text": "víťaz VII. ligy ObFZ Topoľčany, 20 výhier v 26 zápasoch" },
+    { "rok": "2014/15 – 2021/22", "text": "osem sezón v V. lige Stred, najlepšie 4. miesto 2020/21" },
+    { "rok": "2025/26", "text": "5. miesto vo VI. lige Severovýchod" }
+  ],
+  "obec": {
+    "_zdroj": "web obce Krušovce (História obce, Kultúrne pamiatky)",
+    "fakty": [
+      { "k": "1235", "t": "Prvá písomná zmienka: v darovacej listine kráľa Bela IV. na Topoľčany sa spomína veľká cesta z Topoľčian do Krušoviec." },
+      { "k": "Kostol", "t": "Románsky kostol Narodenia Panny Márie postavili na návrší okolo roku 1240, najstaršia zmienka o ňom je z roku 1285. Zachovali sa zvyšky opevnenia." },
+      { "k": "Kaštieľ", "t": "Klasicistický kaštieľ dal na starom základe postaviť v roku 1830 gróf František Beréni, do dnešnej podoby ho prestavali v roku 1906. Okolo je krajinný park." },
+      { "k": "Rodáci", "t": "Barokový spisovateľ a historik Ján Rezik (okolo 1650 – 1710), rektor kolégia v Prešove, a maliar Alexander Buzna (1868 – 1945)." }
+    ]
+  },
+  "sutaze": {
+    "_pozn": "čitateľné názvy súťaží namiesto skratiek a názvov so sponzormi zo Sportnetu",
+    "VI. liga Severovýchod Macron | yoursport  ZsFZ": "VI. liga Severovýchod",
+    "IV. liga  U19  Macron | yoursport  ZsFZ": "IV. liga starších dorastencov U19",
+    "IV. liga - Ž - U13 - ObFZ TO": "IV. liga mladších žiakov U13",
+    "III. liga-prípravka-U11- ObFZ TO": "III. liga prípraviek U11"
+  },
+  "nazvy": {
+    "_pozn": "čitateľné názvy súperov namiesto úradných názvov a veľkých písmen zo Sportnetu",
+    "TJ - ŠK Radošina": "TJ-ŠK Radošina",
+    "FUTBALOVÝ KLUB SLOVAN ŠIMONOVANY - PARTIZÁNSKE": "Slovan Šimonovany-Partizánske",
+    "Futbalový klub Koniarovce": "FK Koniarovce",
+    "ŠPORTOVÉ CENTRUM CHYNORANY": "ŠC Chynorany",
+    "ŠK VEGUM Dolné Vestenice": "ŠK Vegum Dolné Vestenice",
+    "OFK ČERMANY, o. z.": "OFK Čermany",
+    "OFK obce Prašice": "OFK Prašice",
+    "TJ  Slovan Bojná": "TJ Slovan Bojná",
+    "TJ Družstevník Horná Nitra Nedožery-Brezany": "TJ Družstevník Nedožery-Brezany",
+    "Mestský futbalový klub Baník Handlová": "MFK Baník Handlová"
+  }
+}
