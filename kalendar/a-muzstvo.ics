@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a7765bd62c4077e4f8759b4@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20260814T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Jacovce – TJ Slovan Krušovce 7:0
@@ -33,7 +33,7 @@ LOCATION:TJ Družstevník Jacovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765c162c4077e4f8765be@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20260816T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: Slovan Šimonovany-Partizánske – TJ Slovan Krušovc
@@ -43,7 +43,7 @@ LOCATION:Šimonovany
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765bf62c4077e4f8760f0@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20260822T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – OFK Kovarce 4:4
@@ -52,7 +52,7 @@ LOCATION:Krušovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765bf62c4077e4f876055@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20260830T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Iskra Nováky – TJ Slovan Krušovce 5:1
@@ -61,7 +61,7 @@ LOCATION:Futbalový štadión Nováky
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765c362c4077e4f876c57@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20260905T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – TJ Baník Sebedražie 6:1
@@ -70,7 +70,7 @@ LOCATION:Krušovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765c062c4077e4f8763cd@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20260913T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ AC Žabokreky nad Nitrou – TJ Slovan Krušovce 1:
@@ -80,7 +80,7 @@ LOCATION:Futbalové ihrisko Žabokreky nad Nitrou
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765cd62c4077e4f8799e4@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20260919T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – TJ-ŠK Radošina 1:1
@@ -89,7 +89,7 @@ LOCATION:Krušovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765c362c4077e4f876aa0@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20260927T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: OFK Ludanice – TJ Slovan Krušovce 2:1
@@ -98,7 +98,7 @@ LOCATION:Ludanice
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765d062c4077e4f87a5f2@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20261003T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – TJ Priehrada Nitrianske Rudno 
@@ -108,7 +108,7 @@ LOCATION:Krušovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765c362c4077e4f876d64@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20261010T110000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠC Chynorany – TJ Slovan Krušovce 3:1
@@ -117,7 +117,7 @@ LOCATION:Štadión OŠK Chynorany
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765d862c4077e4f87c442@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20261017T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – TJ Slovan Preseľany 5:0
@@ -126,7 +126,7 @@ LOCATION:Krušovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765c462c4077e4f876fe9@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20261025T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK TJ Skačany – TJ Slovan Krušovce 9:0
@@ -135,7 +135,7 @@ LOCATION:Futbalový štadión Jozefa Hudeca
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765ef62c4077e4f880a26@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20261031T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – TJ Tatran Uhrovec 4:1
@@ -144,7 +144,7 @@ LOCATION:Krušovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765cf62c4077e4f87a310@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20261107T133000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠK Vegum Dolné Vestenice – TJ Slovan Krušovce 1:1
@@ -153,7 +153,7 @@ LOCATION:ŠK VEGUM Dolné Vestenice
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765f662c4077e4f881e5a@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20261114T133000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – TJ Slovan Bojná 4:0
@@ -162,7 +162,7 @@ LOCATION:Krušovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765c962c4077e4f878b39@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270306T143000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – TJ Družstevník Jacovce
@@ -170,7 +170,7 @@ DESCRIPTION:VI. liga Severovýchod\, 16. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765c762c4077e4f877ad1@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270313T143000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – Slovan Šimonovany-Partizánsk
@@ -179,7 +179,7 @@ DESCRIPTION:VI. liga Severovýchod\, 17. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765ca62c4077e4f878e23@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270321T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: OFK Kovarce – TJ Slovan Krušovce
@@ -187,7 +187,7 @@ DESCRIPTION:VI. liga Severovýchod\, 18. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765f762c4077e4f8821c5@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270327T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – FK Iskra Nováky
@@ -195,7 +195,7 @@ DESCRIPTION:VI. liga Severovýchod\, 19. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765d562c4077e4f87b948@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270403T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Baník Sebedražie – TJ Slovan Krušovce
@@ -203,7 +203,7 @@ DESCRIPTION:VI. liga Severovýchod\, 20. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765f162c4077e4f880f1d@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270410T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – TJ AC Žabokreky nad Nitrou
@@ -211,7 +211,7 @@ DESCRIPTION:VI. liga Severovýchod\, 21. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765ca62c4077e4f878bd2@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270417T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ-ŠK Radošina – TJ Slovan Krušovce
@@ -219,7 +219,7 @@ DESCRIPTION:VI. liga Severovýchod\, 22. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765df62c4077e4f87de2e@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270425T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – OFK Ludanice
@@ -227,7 +227,7 @@ DESCRIPTION:VI. liga Severovýchod\, 23. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765d962c4077e4f87c822@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270502T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Priehrada Nitrianske Rudno – TJ Slovan Krušovce
@@ -235,7 +235,7 @@ DESCRIPTION:VI. liga Severovýchod\, 24. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765e062c4077e4f87e36c@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270509T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – ŠC Chynorany
@@ -243,7 +243,7 @@ DESCRIPTION:VI. liga Severovýchod\, 25. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765d762c4077e4f87bf3d@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270516T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Preseľany – TJ Slovan Krušovce
@@ -251,7 +251,7 @@ DESCRIPTION:VI. liga Severovýchod\, 26. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765df62c4077e4f87dd19@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270523T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – FK TJ Skačany
@@ -259,7 +259,7 @@ DESCRIPTION:VI. liga Severovýchod\, 27. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765d862c4077e4f87c4ea@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270531T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Tatran Uhrovec – TJ Slovan Krušovce
@@ -267,7 +267,7 @@ DESCRIPTION:VI. liga Severovýchod\, 28. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765d862c4077e4f87c414@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270607T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Krušovce – ŠK Vegum Dolné Vestenice
@@ -275,7 +275,7 @@ DESCRIPTION:VI. liga Severovýchod\, 29. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a7765dc62c4077e4f87d4ca@tj-slovan-krusovce.sportnet
-DTSTAMP:20261124T134208Z
+DTSTAMP:20261125T125402Z
 DTSTART;TZID=Europe/Bratislava:20270614T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Bojná – TJ Slovan Krušovce
